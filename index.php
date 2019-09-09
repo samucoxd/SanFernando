@@ -163,6 +163,8 @@ $db = $database->openConnection();
                   <div class="chart-pie pt-4 pb-2">
                     <canvas id="myPieChart"></canvas>
                   </div>
+
+                  <!--
                   <div class="mt-4 text-center small">
                     <span class="mr-2">
                       <i class="fas fa-circle text-primary"></i> Javier Vargas
@@ -173,7 +175,19 @@ $db = $database->openConnection();
                     <span class="mr-2">
                       <i class="fas fa-circle text-info"></i> Marco Suarez
                     </span>
-                  </div>
+                    <span class="mr-2">
+                      <i class="fas fa-circle text-info"></i> Marco Suarez
+                    </span>
+                    <span class="mr-2">
+                      <i class="fas fa-circle text-info"></i> Marco Suarez
+                    </span>
+                    <span class="mr-2">
+                      <i class="fas fa-circle text-info"></i> Marco Suarez
+                    </span>
+                    <span class="mr-2">
+                      <i class="fas fa-circle text-info"></i> Marco Suarez
+                    </span>
+                  </div> Card Body -->
                 </div>
               </div>
             </div>

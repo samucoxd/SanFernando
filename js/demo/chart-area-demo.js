@@ -1,6 +1,6 @@
 var json;
 var xhr = new XMLHttpRequest();
-xhr.open('GET','graphics.php');
+xhr.open('GET','graphics_Linea.php');
 xhr.onload = function(){
 if (xhr.status===200) {
     json = JSON.parse(xhr.responseText);
